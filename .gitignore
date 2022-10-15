@@ -1,0 +1,9 @@
+#ignore build
+build
+
+#the compiled file
+mmn14
+*.ob
+*.as.am
+*.ent
+*.ext
